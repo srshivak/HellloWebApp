@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellloWebApp", "HellloWebApp\HellloWebApp.csproj", "{901E3A78-2AD3-4A17-8142-FF8DB1DB25DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901E3A78-2AD3-4A17-8142-FF8DB1DB25DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901E3A78-2AD3-4A17-8142-FF8DB1DB25DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901E3A78-2AD3-4A17-8142-FF8DB1DB25DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901E3A78-2AD3-4A17-8142-FF8DB1DB25DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5EB5F60-0D22-45AD-AF04-62A1EA3C78E8}
+	EndGlobalSection
+EndGlobal
